@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|c:\\users\\daole\\source\\repos\\reallibrarymanagement\\guin\\forms\\formbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|solutionrelative:guin\\forms\\formbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\guin\\forms\\formborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|solutionrelative:guin\\forms\\formborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|c:\\users\\daole\\source\\repos\\reallibrarymanagement\\guin\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|solutionrelative:guin\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|c:\\users\\daole\\source\\repos\\reallibrarymanagement\\guin\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|solutionrelative:guin\\formmainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A310EE9-D956-4EF3-A1BF-D7F192001B86}|DTO\\DTO.csproj|c:\\users\\daole\\source\\repos\\reallibrarymanagement\\dto\\borrowinghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A310EE9-D956-4EF3-A1BF-D7F192001B86}|DTO\\DTO.csproj|solutionrelative:dto\\borrowinghistorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B6BC695-8C4C-4A9A-B7CA-763CD55B2460}|BLL\\BLL.csproj|c:\\users\\daole\\source\\repos\\reallibrarymanagement\\bll\\borrowingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B6BC695-8C4C-4A9A-B7CA-763CD55B2460}|BLL\\BLL.csproj|solutionrelative:bll\\borrowingbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|c:\\users\\daole\\source\\repos\\reallibrarymanagement\\guin\\forms\\formborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{425548F6-673F-4F0F-8376-08D13C5A6639}|GUIn\\GUIn.csproj|solutionrelative:guin\\forms\\formborrowing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\Forms\\FormBook.cs",
+              "RelativeDocumentMoniker": "GUIn\\Forms\\FormBook.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\Forms\\FormBook.cs [Design]",
+              "RelativeToolTip": "GUIn\\Forms\\FormBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:12:35.722Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "GUIn\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\FormMainMenu.cs",
+              "RelativeToolTip": "GUIn\\FormMainMenu.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAQwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:53:58.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMainMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\FormMainMenu.cs",
+              "RelativeDocumentMoniker": "GUIn\\FormMainMenu.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\FormMainMenu.cs [Design]",
+              "RelativeToolTip": "GUIn\\FormMainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:53:56.833Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormBorrowing.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\Forms\\FormBorrowing.cs",
+              "RelativeDocumentMoniker": "GUIn\\Forms\\FormBorrowing.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\Forms\\FormBorrowing.cs [Design]",
+              "RelativeToolTip": "GUIn\\Forms\\FormBorrowing.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:54:32.489Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowingHistoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\DTO\\BorrowingHistoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\BorrowingHistoryDTO.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\DTO\\BorrowingHistoryDTO.cs",
+              "RelativeToolTip": "DTO\\BorrowingHistoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:32:26.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BorrowingBLL.cs",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\BLL\\BorrowingBLL.cs",
+              "RelativeDocumentMoniker": "BLL\\BorrowingBLL.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\BLL\\BorrowingBLL.cs",
+              "RelativeToolTip": "BLL\\BorrowingBLL.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwB8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:10:36.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormBorrowing.cs",
+              "DocumentMoniker": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\Forms\\FormBorrowing.cs",
+              "RelativeDocumentMoniker": "GUIn\\Forms\\FormBorrowing.cs",
+              "ToolTip": "C:\\Users\\daole\\source\\repos\\RealLibraryManagement\\GUIn\\Forms\\FormBorrowing.cs",
+              "RelativeToolTip": "GUIn\\Forms\\FormBorrowing.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwGIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:35:11.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
